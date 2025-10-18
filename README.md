@@ -13,7 +13,7 @@ Berikut adalah beberapa bahasa, framework, dan tool yang sering saya gunakan:
 | Kategori | Keahlian |
 | :--- | :--- |
 | **Bahasa Pemrograman** | JavaScript (ES6+), PHP, HTML5, CSS3, SQL |
-| **Framework & Library** | Express.js, Node.js, Laravel, Bootstrap) |
+| **Framework & Library** | Laravel, Bootstrap) |
 | **Database** | MySQL/MariaDB|
 | **Tools & Platform** | Git, GitHub, VS Code|
 | **Desain & Lainnya** | Figma, UI/UX Dasar |
