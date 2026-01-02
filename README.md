@@ -2,7 +2,7 @@
 
 **Selamat datang di rumah digital saya!**
 
-Saya adalah seorang *Mahasiswa Ilmu Komputer* yang bersemangat dalam dunia teknologi, terutama dalam pengembangan web. Repositori ini berfungsi sebagai halaman utama profil GitHub saya dan tempat saya memamerkan ide, eksperimen, dan proyek-proyek yang sedang saya kerjakan.
+Saya adalah seorang *Mahasiswa Ilmu Komputer*. Repositori ini berfungsi sebagai halaman utama profil GitHub saya dan tempat saya memamerkan ide, eksperimen, dan proyek-proyek yang sedang saya kerjakan.
 
 ---
 
@@ -15,7 +15,7 @@ Berikut adalah beberapa bahasa, framework, dan tool yang sering saya gunakan:
 | **Bahasa Pemrograman** | JavaScript (ES6+), PHP, HTML5, CSS3, SQL |
 | **Framework & Library** | Laravel, Bootstrap) |
 | **Database** | MySQL/MariaDB|
-| **Tools & Platform** | Git, GitHub, VS Code|
+| **Tools & Platform** | Git, GitHub, VS Code, Laragon, XAMPP|
 | **Desain & Lainnya** | Figma, UI/UX Dasar |
 
 ---
