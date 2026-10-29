@@ -1,49 +1,66 @@
-# Halo! Saya Choirul 👋
+# Halo, saya Choirul 👋
 
-**Selamat datang di rumah digital saya!**
+**Mahasiswa Ilmu Komputer | Pengembangan Web**
 
-Saya adalah seorang *Mahasiswa Ilmu Komputer*. Repositori ini berfungsi sebagai halaman utama profil GitHub saya dan tempat saya memamerkan ide, eksperimen, dan proyek-proyek yang sedang saya kerjakan.
+Saya seorang mahasiswa Ilmu Komputer yang tertarik pada pengembangan aplikasi web dan penerapan pembelajaran mesin. Saya menggunakan GitHub untuk mendokumentasikan proses belajar, membagikan eksperimen, dan mengembangkan proyek yang membantu menyelesaikan kebutuhan nyata.
 
----
+Saya terbuka untuk diskusi teknologi, kolaborasi proyek, dan peluang kerja.
 
-## 💻 Keahlian & Teknologi (Tech Stack)
+## Keahlian & Teknologi
 
-Berikut adalah beberapa bahasa, framework, dan tool yang sering saya gunakan:
-
-| Kategori | Keahlian |
+| Bidang | Teknologi |
 | :--- | :--- |
-| **Bahasa Pemrograman** | JavaScript (ES6+), PHP, HTML5, CSS3, SQL |
-| **Framework & Library** | Laravel, Bootstrap) |
-| **Database** | MySQL/MariaDB|
-| **Tools & Platform** | Git, GitHub, VS Code, Laragon, XAMPP|
-| **Desain & Lainnya** | Figma, UI/UX Dasar |
+| Bahasa Pemrograman | PHP, JavaScript (ES6+), Python, SQL |
+| Pengembangan Web | HTML5, CSS3, Laravel, Bootstrap |
+| Database | MySQL, MariaDB |
+| Pembelajaran Mesin | scikit-learn, Naive Bayes, TF-IDF |
+| Pemrosesan Teks | Sastrawi |
+| Version Control | Git, GitHub |
+| Tools Pengembangan | Visual Studio Code, Laragon, XAMPP |
+| Desain | Figma, dasar-dasar UI/UX |
 
----
+## Proyek Pilihan
 
-## 📂 Proyek Pilihan (Portfolio)
+### SI KABRI
+**Sistem Informasi Klasifikasi Berita Prioritas**
 
-Berikut adalah beberapa proyek yang menunjukkan kemampuan dan minat saya:
+Aplikasi untuk mendukung pengelolaan media pada Divisi Komunikasi Publik Diskominfo Kota Medan. SI KABRI mengelola kliping berita, iklan koran, dan arsip spanduk, serta mengklasifikasikan judul berita ke dalam kategori Prioritas atau Non Prioritas menggunakan model pembelajaran mesin.
 
-### 1. Web Kas Masjid
-Aplikasi web berbasis PHP dan MySQL sederhana yang dirancang untuk mengelola dan mencatat transaksi kas (pemasukan dan pengeluaran) masjid secara efisien.
-* **Fitur Utama:** Pencatatan Transaksi, Rekapitulasi Kas, Multi-User (Admin & Bendahara).
-* **Teknologi:** PHP, MySQL, Bootstrap.
-* **Repositori:** [web-kas-masjid](https://github.com/Choirullamri05/Web-Kas-Masjid.git)
+Fitur utama:
+- Akses pengguna dengan peran Admin dan Staf.
+- Pengelolaan kliping berita, iklan koran, dan arsip spanduk.
+- Klasifikasi judul berita menggunakan Naive Bayes dan TF-IDF, dengan prapemrosesan teks bahasa Indonesia melalui Sastrawi.
+- Dashboard ringkasan data media.
+- Koreksi kategori berita dan penandaan data latih.
+- Filter laporan, ekspor Excel, dan ekspor dataset CSV.
 
----
+**Teknologi:** PHP native, MySQL, Bootstrap, jQuery, DataTables, Chart.js, Python, scikit-learn, Sastrawi, dan PhpSpreadsheet.
 
-## 📬 Mari Terhubung!
+[Lihat repositori SI KABRI](https://github.com/Choirullamri05/si-kabri)
 
-Saya senang untuk berdiskusi tentang proyek, kolaborasi, atau peluang kerja. Jangan ragu untuk menghubungi saya melalui platform berikut:
+### Web Kas Masjid
 
-| Platform | Username/Link |
+Aplikasi web untuk membantu pengurus masjid mencatat pemasukan dan pengeluaran serta menyusun rekapitulasi kas.
+
+Fitur utama:
+- Pencatatan transaksi pemasukan dan pengeluaran.
+- Rekapitulasi kas masjid.
+- Akses pengguna dengan peran Admin dan Bendahara.
+
+**Teknologi:** PHP, MySQL, dan Bootstrap.
+
+[Lihat repositori Web Kas Masjid](https://github.com/Choirullamri05/Web-Kas-Masjid)
+
+## Kontak & Kolaborasi
+
+Untuk diskusi proyek, kolaborasi, atau peluang kerja, hubungi saya melalui:
+
+| Platform | Kontak |
 | :--- | :--- |
-| **Email** | `mchoirulamri112@gmail.com` |
-| **LinkedIn** | `https://www.linkedin.com/in/m-choirul-amri-2151801b8/` |
-| **Instagram** | `@choirulamri15_` |
+| Email | [mchoirulamri112@gmail.com](mailto:mchoirulamri112@gmail.com) |
+| LinkedIn | [m-choirul-amri](https://www.linkedin.com/in/m-choirul-amri/) |
+| Instagram | [@choirulamri15](https://www.instagram.com/choirulamri15/) |
 
----
+## Kontribusi
 
-## 🚀 Kontribusi
-
-Repositori profil ini adalah tentang diri saya, tetapi saya selalu terbuka untuk kolaborasi pada proyek-proyek terpisah saya. Jika Anda menemukan bug atau memiliki ide pada salah satu proyek saya, silakan lihat panduan kontribusi di repositori masing-masing.
+Masukan dan kontribusi untuk proyek saya dapat disampaikan melalui issue atau pull request pada repositori terkait. Jika tersedia, ikuti panduan kontribusi di masing-masing repositori.
