@@ -59,7 +59,7 @@ Untuk diskusi proyek, kolaborasi, atau peluang kerja, hubungi saya melalui:
 | :--- | :--- |
 | Email | [mchoirulamri112@gmail.com](mailto:mchoirulamri112@gmail.com) |
 | LinkedIn | [m-choirul-amri](https://www.linkedin.com/in/m-choirul-amri/) |
-| Instagram | [@choirulamri15](https://www.instagram.com/choirulamri15/) |
+| Instagram | [@choirulamri15](https://www.instagram.com/choirllamri15/) |
 
 ## Kontribusi
 
